@@ -1,0 +1,25 @@
+p {
+font-family: Roboto, Arial;
+margin-top: 0;
+margin-bottom: 0;
+}
+body {
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(250, 247, 247);
+}
+.video-time {
+    background-color: black;
+    color: white;
+position: absolute;
+bottom: 8px;
+right: 5px;
+font-family: Roboto, Arial;
+font-size: 12px;
+font-weight: 500;
+padding: 4px;
+border-radius: 2px;
+}
+

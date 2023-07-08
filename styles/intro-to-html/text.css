@@ -1,0 +1,45 @@
+.video-title {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 2px;
+}
+.video-views {
+    font-size: 14px;
+    font-family: arial;
+    font-color: rgb(59, 58, 58);
+    margin-top: 0px;
+}
+.name {
+    font-size: 14px;
+    font-family: arial;
+    font-color: rgb(59, 58, 58);
+}
+.final-text {
+    font-size: 14px;
+    font-family: Montserrat;
+    font-color: rgb(59, 58, 58);
+    line-height: 24px;
+    margin-bottom: 60px;
+}
+.box-text {
+    font-size: 14px;
+    color: white;
+    font-family: arial;
+    font-color: rgb(59, 58, 58);
+    text-align: center;
+    background-color: red;
+    border-radius: none;
+    padding-right: 18px;
+    padding-left: 16px;
+    padding-right: 24px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-bottom: 24px;
+}
+.shop:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
